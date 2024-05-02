@@ -1,0 +1,15 @@
+[
+  {
+    "id": 64984750,
+    "name": "Jinniret",
+    "coordinates": {
+      "x": 12.0,
+      "y": 23
+    },
+    "creationDate": "2011-12-03T10:15:30+01:00[Europe/Paris]",
+    "enginePower": 230,
+    "distanceTravelled": 456,
+    "type": "DRONE",
+    "fuelType": "ELECTRICITY"
+  }
+]

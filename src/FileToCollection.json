@@ -1,0 +1,41 @@
+[
+  {
+    "id": 4927076386972765818,
+    "name": "dfgh",
+    "coordinates": {
+      "x": 34.0,
+      "y": 45
+    },
+    "creationDate": "2024-03-25T23:29:15.3042485+03:00[Europe/Moscow]",
+    "enginePower": 4,
+    "distanceTravelled": 5,
+    "type": "CAR",
+    "fuelType": "PLASMA"
+  },
+  {
+    "id": 64984750,
+    "name": "Jinniret",
+    "coordinates": {
+      "x": 12.0,
+      "y": 23
+    },
+    "creationDate": "2011-12-03T10:15:30+01:00[Europe/Paris]",
+    "enginePower": 230,
+    "distanceTravelled": 456,
+    "type": "DRONE",
+    "fuelType": "ELECTRICITY"
+  },
+  {
+    "id": 56789300,
+    "name": "Chan",
+    "coordinates": {
+      "x": 8788.0,
+      "y": 300
+    },
+    "creationDate": "2011-12-03T10:15:31+01:00[Europe/Paris]",
+    "enginePower": 489,
+    "distanceTravelled": 295,
+    "type": "CAR",
+    "fuelType": "ALCOHOL"
+  }
+]
